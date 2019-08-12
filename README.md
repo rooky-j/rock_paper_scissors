@@ -4,3 +4,5 @@ The Odin Project - JavaScript Project No.1
 - Best of 5 vs the Computer. 
 
 Good Luck! 
+
+https://rooky-j.github.io/rock_paper_scissors/
